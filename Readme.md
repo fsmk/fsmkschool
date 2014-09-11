@@ -31,7 +31,7 @@ How to setup
 
 * add schema 
         
-        psql pythonexpress < fsmkschool/schema.sql
+        psql pythonexpress < broadgauge/schema.sql
 
 * run the app
 
