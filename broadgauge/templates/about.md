@@ -1,28 +1,13 @@
-Hello everyone,
 
-This year, Python Month is back in all its glory, but with a new face and a new plan. Python Month is now Python Express! There were two main motivations behind this idea.
 
-One is the tremendous response that we got last year both in terms of trainers willing to teach, as well as colleges and institutions willing to organize workshops. Both these factors made us think, "Why stop with just one month?". Hence, Python Express is going to be an ongoing effort.
+Nunc vehicula neque non purus mattis, et egestas urna congue. Sed ornare augue vel pellentesque dictum. Integer tincidunt ante quis nulla pulvinar, nec laoreet lacus hendrerit. Nunc pulvinar non risus eu hendrerit. Aenean feugiat, erat in accumsan aliquet, ex mauris eleifend nisl, vel sollicitudin justo lectus ac lorem. Quisque consequat, nibh cursus tempus dapibus, ex elit tincidunt elit, eu tempus erat lorem quis magna. Nulla eu libero vehicula, dictum sapien ut, porttitor arcu. Phasellus vitae dui ante. Maecenas lobortis justo a mi auctor volutpat. Quisque ac tincidunt lectus, eget auctor purus. Suspendisse sed ultricies felis, et lacinia arcu.
 
-The second motivation was the lessons learned from organizing such an initiative without the proper use of technology. A lot of time was spent in match making and house keeping the records related to all the workshops. After having understood what would save everyone's time when automated, we've built this brand new website for Python Express!
+Duis bibendum ex non tristique faucibus. Donec et tincidunt ante. Sed ornare ac purus ornare rutrum. Vestibulum ullamcorper sem sit amet dui accumsan, eget pellentesque eros fermentum. Cras sollicitudin ac eros in mollis. Vivamus at pellentesque velit. Etiam hendrerit eget lectus ut pellentesque.
 
-What should you do?
--------------------
+Pellentesque dignissim eros sagittis neque varius, sed cursus nunc rhoncus. Ut finibus magna sit amet ipsum blandit, maximus porta arcu facilisis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed aliquam, urna sit amet rhoncus luctus, erat metus semper arcu, in mattis urna orci sit amet leo. Sed ullamcorper urna ac ex aliquam aliquam. Donec faucibus imperdiet luctus. In hac habitasse platea dictumst. Aenean odio quam, hendrerit vel diam sit amet, aliquam efficitur dui. Sed id faucibus eros, et hendrerit ipsum.
 
-Sign up as a trainer on the Python Express website and check the list of colleges that are willing to organize workshops. If you find any of them to be suitable for you to go and teach at, Express Interest in that particular college. Once you are accepted, you will be notified and things can be taken forward from there.
+Nulla laoreet nisl ac sapien ullamcorper semper. Maecenas pretium tincidunt magna, ut tincidunt felis dictum in. Ut tincidunt est non ipsum auctor dapibus. In pulvinar vulputate mauris a mattis. Phasellus varius elementum tortor quis porttitor. Nam eu semper turpis. Mauris posuere massa tellus, id hendrerit eros eleifend sit amet. Curabitur sed enim lorem. Morbi efficitur sit amet risus id varius. Quisque dapibus massa quis vestibulum volutpat. Nulla facilisi. Cras ut purus aliquet, laoreet est quis, scelerisque lacus. Nunc ligula augue, consequat nec porttitor sit amet, venenatis et nisi. Mauris sed dui sed purus gravida luctus non id purus. Suspendisse ultrices nec est pulvinar mollis.
 
-Sign up as a trainer now:
-[http://www.pythonexpress.in/trainers/signup](http://www.pythonexpress.in/trainers/signup)
+Morbi luctus lobortis nisl sit amet vehicula. Phasellus viverra elit vitae dolor porttitor facilisis. Nulla facilisi. Donec quam nisi, pharetra ac ante sit amet, sodales suscipit nisl. Curabitur gravida felis leo, vitae accumsan felis lacinia id. Nullam quam justo, rhoncus eget vestibulum non, mollis sed sapien. Etiam maximus sagittis mi in posuere. Fusce ut erat vitae nulla scelerisque imperdiet. Aenean et pulvinar magna, quis tempus velit. Cras aliquam eget massa quis egestas. Nunc ultrices ligula ut nisi viverra pellentesque. Suspendisse nec elementum purus, sit amet accumsan purus. Suspendisse in sem tempor, mattis odio a, varius justo. Phasellus molestie leo quis pellentesque feugiat. Mauris porttitor est eu turpis rhoncus facilisis. 
 
-If you are interested in organizing a Python workshop, sign up as an organization/institution on the Python Express website. The trainers who have already signed up will be able to see your institution. If they are interested, they will Express Interest in your institution. Once that happens, you will be able to accept them and take it forward.
-
-Register an organization now:
-[http://www.pythonexpress.in/orgs/signup](http://www.pythonexpress.in/orgs/signup)
-
-Spread the word and let us spread the love of Python far and wide.
-
-Sincerely,
-
-The Python Express team.
-
-[Follow us on Twitter @pythonexpress](https://twitter.com/pythonexpress)
+fsmk.org
