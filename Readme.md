@@ -1,11 +1,8 @@
-BroadGauge
+FSMK School
 ==========
 
-Platform for managing training/workshops by connecting interested trainers and educational institutes interested in conducting trainings for their students. 
+Platform for managing sessions/workshops conducted in FSMK GLUGS
 
-This is going to be used for managing Python workshops going to be conducted across India as part of PyCon India 2014.
-
-[![Build Status](https://travis-ci.org/anandology/broadgauge.svg?branch=master)](https://travis-ci.org/anandology/broadgauge)
 
 Requirements
 ------------
@@ -19,8 +16,8 @@ How to setup
 
 * Clone the repo
 
-        git clone git://github.com/anandology/broadgauge.git
-        cd broadgauge
+        git clone https://github.com/fsmk/fsmkschool.git
+        cd fsmkschool
 
 * setup virtualenv and install python packages
 
@@ -34,7 +31,7 @@ How to setup
 
 * add schema 
         
-        psql pythonexpress < broadgauge/schema.sql
+        psql pythonexpress < fsmkschool/schema.sql
 
 * run the app
 
